@@ -15,6 +15,5 @@ inputs:
 
   third-greeting:
     description: "a third greeting"
-    required: true
-    default: "Audrey A"
+    required: false
 
